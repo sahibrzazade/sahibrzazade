@@ -8,7 +8,6 @@
 - 🎓 Completed my Bachelor's in Information Technology at Azerbaijan State University of Economics, Azerbaijan
 - 🌱 I’m currently improving my Backend Skills
 - 🚀 I love building **modern web applications**, **ERP** and **CRM** systems 
-- 🔭 I’m currently working on a **fashion e-commerce web app** with Firebase integration
 - 🧩 Love working with real-world app logic like dashboards, user roles, and dynamic data  
 
 ---
